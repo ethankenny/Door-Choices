@@ -1,0 +1,27 @@
+﻿html {
+  background-color: #C1FFC1;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  margin: 3px 0 25px 0;
+}
+
+.door {
+  padding: 0 50px 0 50px;
+  height: 600px;
+  width: 300px;
+}
+
+#goat, #car {
+  display: block;
+  margin: auto;
+  height: 734px;
+  width: 1200px;
+}
